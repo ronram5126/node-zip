@@ -1,11 +1,7 @@
-# yarn-zip
+# node-zip
 The [official node image](https://hub.docker.com/_/node/) for Bitbucket Pipelines *plus* zip cmd to produce zipped artifact.
 
 [![Automated Docker Build](https://img.shields.io/docker/automated/ronitbk/node-zip.svg)](https://hub.docker.com/r/ronitbk/node-zip/)
-
-## Version
-
-	atlassian/default-image:1.70
 
 ## Usage
 
